@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\Solution1\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {}
+    "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\eShopSolution.WebApp\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\Solution1\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
+    "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\eShopSolution.WebApp\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\Solution1\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\eShopSolution.WebApp\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
         "projectName": "eShopSolution.WebApp",
-        "projectPath": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\Solution1\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
+        "projectPath": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\eShopSolution.WebApp\\eShopSolution.WebApp\\eShopSolution.WebApp.csproj",
         "packagesPath": "C:\\Users\\dhoan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\Solution1\\eShopSolution.WebApp\\obj\\",
+        "outputPath": "C:\\Users\\dhoan\\Desktop\\TEDU_Education\\eShopSolution.WebApp\\eShopSolution.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
