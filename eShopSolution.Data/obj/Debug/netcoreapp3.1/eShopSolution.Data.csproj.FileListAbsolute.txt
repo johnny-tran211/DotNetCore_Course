@@ -1,0 +1,11 @@
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.deps.json
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.dll
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.csprojAssemblyReference.cache
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfoInputs.cache
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.AssemblyInfo.cs
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.json
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.runtimeconfig.dev.json
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.genruntimeconfig.cache
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\bin\Debug\netcoreapp3.1\eShopSolution.Data.pdb
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.dll
+C:\Users\dhoan\Desktop\TEDU_Education\eShopSolution.WebApp\eShopSolution.Data\obj\Debug\netcoreapp3.1\eShopSolution.Data.pdb
